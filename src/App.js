@@ -2,10 +2,12 @@ import React, { Component } from 'react';
 import propTypes from 'prop-types';
 import logo from './logo.svg';
 import './App.css';
+import moment from 'moment';
 
 class App extends Component {
   static propTypes = {
     onClick: propTypes.func.isRequired,
+    data: propTypes.array.isRequired,
   };
 
   render() {
