@@ -1,6 +1,6 @@
 export default [
   {
-    id: 8,
+    id: 1,
     attributes: {
       action: "Viewed",
       actor: {
@@ -23,7 +23,7 @@ export default [
     type: "activity_logs",
   },
   {
-    id: 8,
+    id: 2,
     attributes: {
       action: "Viewed",
       actor: {
