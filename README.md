@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 This project also has installed [Moment.js](https://momentjs.com/docs/).
 
-## Prepare for your coding Challenge
+## Prepare for Your Coding Challenge
 
 This is the coding challenge for GigNow, a subsidiary of Ernst & Young.
 
@@ -33,10 +33,14 @@ In the project directory, you can run:
 
 Download all relevant packages for this application getting it ready to run.
 
-### `npm start`
+### `npm run start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
+
+### PS
+
+Yarn is also supported.
